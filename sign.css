@@ -1,0 +1,27 @@
+
+.form{
+    background-color: #cce5ff;
+    padding-left: 15vh;
+    padding-right: 10vh;
+
+}
+h1,h3 {
+    color: #cce5ff;
+    font-weight: bold;
+    font-family: "Apple Color Emoji";
+}
+
+
+body{
+    background-color: #0b0b0b;
+}
+.green{
+    padding-right: 20vh;
+}
+.clay{
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+.gg{
+    padding-top: 5vh;
+}
